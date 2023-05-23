@@ -26,6 +26,7 @@
     <a href='https://coveralls.io/github/frappe/frappe?branch=develop'>
         <img src='https://coveralls.io/repos/github/frappe/frappe/badge.svg?branch=develop'>
     </a>
+	
 </div>
 
 
